@@ -19,6 +19,9 @@ QNA Consulting delivers technical consulting services across broadcast engineeri
 | **Networking** | LAN/WAN design, routing, VPN, on-prem/cloud hybrid |
 | **Linux / Server OS** | System administration, hardening, automation, performance tuning |
 | **Software Development** | Backend services, APIs, CLI tooling, infrastructure-adjacent software |
+| **AI Integration** | LLM-powered applications, prompt engineering, Claude/OpenAI API integration, document intelligence |
+| **Automation & Agents** | Workflow automation, AI agents, business process automation, reducing manual overhead at scale |
+| **IT Services** | Small business IT, infrastructure assessments, vendor selection, tech stack modernization |
 
 ---
 
