@@ -1,4 +1,3 @@
-# .github
 # QNA Consulting
 
 **A division of QNA Holdings** — Engineering consulting at the intersection of broadcast, cloud, and infrastructure.
